@@ -1,16 +1,17 @@
-p{
-    background-color: rgba(226, 117, 117, 0.849);
-    font-family : Verdana, 'DejaVu Sans', 'sans-serif';
+.odd {
+    background-color: rgba(240, 134, 134, 0.685);
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
 }
 #one{
     color: blue;
     font-size: 36px;
 }
-.three{
+.fontsize{
     font-size: 24px;
 }
-#two{
-    background-color: rgba(120, 201, 120, 0.822);
-    font-size: 24px;
+#two{ 
+    background-color: rgba(141, 233, 141, 0.781);
     font-weight: bold;
-}
+} 
+
+
